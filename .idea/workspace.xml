@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2cf5f51-1455-4ce3-81c8-d9e76e644529" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SystemAnalytics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LR2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LR2_TASK.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LR3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LR6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LR7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,25 +22,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2opjYIC1TI1MdXBhEFVvT8rkI6J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.LR2.executor": "Run",
-    "Python.LR5.executor": "Run",
-    "Python.LR6.executor": "Run",
-    "Python.LR7.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.LR2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LR3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LR5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LR6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LR7.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
