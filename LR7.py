@@ -8,6 +8,7 @@ def queue_system_metrics(lambda_rate, mu_rate):
     # Среднее время, которое заказ проводит в системе (Ws)
     Ws = 1 / (mu_rate - lambda_rate)
 
+
     return Ls, Wq, Ws
 
 # Параметры задачи
