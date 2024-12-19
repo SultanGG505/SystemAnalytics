@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2cf5f51-1455-4ce3-81c8-d9e76e644529" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/RSA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/SystemAnalytics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SystemAnalytics.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LR7.py" beforeDir="false" afterPath="$PROJECT_DIR$/LR7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,9 @@
     "Python.LR5.executor": "Run",
     "Python.LR6.executor": "Run",
     "Python.LR7.executor": "Run",
+    "Python.RSA.executor": "Run",
+    "Python.ahahah.executor": "Run",
+    "Python.lr3.executor": "Run",
     "Python.test.executor": "Run",
     "Python.test2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
